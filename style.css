@@ -1,0 +1,94 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+header {
+  background-color: #feedbc;
+  padding: 50px 100px;
+}
+
+.navbar{
+  background-color: white;
+  border-radius: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.h3{
+color: #F9B800;
+ font-size: 30px;
+ font-family: Segoe UI;
+ font-weight: 700;
+ text-transform: uppercase;
+ word-wrap: break-word;
+}
+
+.h2{
+color: #262626;
+ font-size: 80px;
+ font-family: Segoe UI;
+ font-weight: 700;
+ line-height: 90px;
+ word-wrap: break;
+}
+
+.p{
+color: #262626;
+ font-size: 20px;
+ font-family: Segoe UI;
+ font-weight: 600;
+ word-wrap: break-word
+}
+
+.p-bold{
+color: #262626;
+ font-size: 24px;
+ font-family: Segoe UI;
+ font-weight: 700;
+ word-wrap: break-word
+}
+
+.first-part{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+
+.insider{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.second-part{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-primary{
+  background-color: #F9B800;
+  padding: 15px 25px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.full-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
