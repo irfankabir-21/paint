@@ -92,3 +92,49 @@ color: #262626;
   justify-content: center;
   align-items: center;
 }
+
+/* mid section */
+
+.mid-sec-1 {
+  background-color: #262626;
+  padding: 50px 100px;
+}
+
+.para-box{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.para-box p{ 
+color: #F9B800;
+ font-size: 20px;
+ font-family: Segoe UI;
+ font-weight: 400;
+ letter-spacing: 0.40px;
+ word-wrap: break-word
+}
+
+.para-box h2{
+color: white;
+ font-size: 50px;
+ font-family: Segoe UI;
+ font-weight: 700;
+ word-wrap: break-word
+}
+
+.btn-secondary{
+  background-color: white;
+color: #262626;
+ font-size: 24px;
+ font-family: Segoe UI;
+ font-weight: 700;
+ word-wrap: break-word;
+ display: flex;
+ justify-content: center;
+ gap: 10px;
+ padding: 15px 25px;
+ border-radius: 30px;
+}
+
